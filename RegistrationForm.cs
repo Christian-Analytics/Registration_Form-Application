@@ -1,6 +1,4 @@
 ﻿// Programmer: Christian Castillo
-// Project: Assignment 4
-// Date: 11/27/2023
 // Description: Registration form interface for Hopkins Film School
 using System.Collections.Generic;
 using System.ComponentModel;
