@@ -1,6 +1,6 @@
 # School Registration Form Project 📑
 
-Welcome to the Registration Form Project Repository! This project showcases a C# application developed in Visual Studio. It features a school registration form designed to streamline participant registrations for an annual filmmaking event at a fictional school. 
+Welcome to the Registration Form Project Repository! This project showcases a C# application developed in Visual Studio. It features a school registration form designed to streamline participant registrations for an annual filmmaking event at a fictional school. For a quick overview, check out the 1-minute demo video located in the Demo folder as an mp4 file.
 
 This short project demonstrates various programming concepts such as variable and constant declaration, event handlers, exception handling, modal dialogs, foreach loops, custom methods, and more. If you're interested in exploring the full codebase, you can download the zipped file containing the entire project. 
 
